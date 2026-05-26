@@ -1,4 +1,4 @@
-# Hi, I'm Bahar 👋
+# Hi, I'm Bahar 👾
 
 I am a Data Science and Economics student based in Italy, interested in applied machine learning, NLP, recommendation systems, and business analytics.
 
