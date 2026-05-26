@@ -27,12 +27,11 @@ My current academic work focuses on response recommendation for Persian social-c
 
 ## Tech Stack
 
-**Languages:** Python, R, SQL , c++ 
+**Languages:** Python, R, SQL, C++  
 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Machine Learning:**  Scikit-learn, TF-IDF, BM25, classification models, semantic search, sentence embeddings, bi-encoder retrieval, cross-encoder reranking  
+**Machine Learning & NLP:** Scikit-learn, TF-IDF, BM25, classification models, semantic search, sentence embeddings, bi-encoder retrieval, cross-encoder reranking  
 **Databases:** MySQL  
 **Tools:** GitHub, PyCharm, Jupyter Notebook, Google Colab  
-
 ---
 
 ## Currently Learning
@@ -54,5 +53,5 @@ My current academic work focuses on response recommendation for Persian social-c
 
 ## Contact
 
-- LinkedIn:  linkedin.com/in/bahar-shafieian-0773022a3
+- LinkedIn:[bahar-shafieian](https://www.linkedin.com/in/bahar-shafieian-0773022a3)
 - Email: bahar.shafieian2004@gmail.com
