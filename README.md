@@ -22,8 +22,7 @@ My current academic work focuses on response recommendation for Persian social-c
 | [CS50 Python Practice](https://github.com/bahar-shafieian/coursera-python-practice) | Practice problems from CS50’s Introduction to Programming with Python | Python |
 | [IMDb Mini Database](https://github.com/bahar-shafieian/imdb-mini-database) | Mini IMDb-style database project for a Data Management course | MySQL, Python |
 | [Spotify Machine Learning in R](https://github.com/bahar-shafieian/spotify-machine-learning-r) | Machine learning analysis of Spotify audio features | R, Machine Learning |
-| Persian Response Ranking Thesis | Thesis project on ranking candidate seller replies in Persian social-commerce conversations | Python, NLP, TF-IDF, BM25 |
-
+| Persian Response Ranking Thesis | Thesis project on ranking candidate seller replies in Persian social-commerce conversations | Python, NLP, TF-IDF, BM25, Semantic Models |
 ---
 
 ## Tech Stack
