@@ -1,57 +1,30 @@
-# Hi, I'm Bahar 👾
+# Hi, I'm Bahar
 
-I am a Data Science and Economics student based in Italy, interested in applied machine learning, NLP, recommendation systems, and business analytics.
+Data Science and Economics student (Università di Cassino) with hands-on research experience in NLP and machine learning, admitted to the **DSEH master's degree at the University of Milan (UniMi)**, starting 2026. My work focuses on applied ML, NLP, recommendation/ranking systems, and business analytics.
 
-My current academic work focuses on response recommendation for Persian social-commerce conversations, where I am exploring retrieval and ranking methods such as TF-IDF, BM25, and later semantic models.
+📍 Based in Italy — open to data science / ML / analytics opportunities in Milan
+🔗 LinkedIn · 📧 bahar.shafieian2004@gmail.com
 
----
+## Currently
 
-## About Me
-
-- Interested in NLP, recommender systems, social-commerce data, and applied machine learning
-- Building projects in Python, R, SQL, and data analysis
-- Currently working on a thesis about Persian response recommendation systems
-- Improving my GitHub portfolio through clean, documented academic and personal projects
-
----
+Working on my thesis: **response ranking for Persian social-commerce conversations** — building and fine-tuning LLM-based rerankers, and diagnosing/correcting position bias in how these models are typically evaluated.
 
 ## Featured Projects
 
 | Project | Description | Tools |
 |---|---|---|
-| [CS50 Python Practice](https://github.com/bahar-shafieian/coursera-python-practice) | Practice problems from CS50’s Introduction to Programming with Python | Python |
-| [IMDb Mini Database](https://github.com/bahar-shafieian/imdb-mini-database) | Mini IMDb-style database project for a Data Management course | MySQL, Python |
-| [Spotify Machine Learning in R](https://github.com/bahar-shafieian/spotify-machine-learning-r) | Machine learning analysis of Spotify audio features | R, Machine Learning |
-| Persian Response Ranking Thesis | Thesis project on ranking candidate seller replies in Persian social-commerce conversations | Python, NLP, TF-IDF, BM25, Semantic Models |
----
+| **Persian Response Ranking (Thesis)** | Built and benchmarked a response-ranking system (2,100+ query–response pairs) comparing lexical, semantic, and LLM-based rerankers. Identified and corrected position bias in LLM evaluation via a shuffle-and-aggregate diagnostic; fine-tuned rerankers with retrieval-augmented LoRA training, improving accuracy on the hardest benchmark split by up to +13 points across three model architectures. | Python, PyTorch, HuggingFace, PEFT/LoRA, TRL |
+| **Student Performance Classifier** | Modular OOP pipeline predicting student academic outcomes — six single-responsibility classes for loading, preprocessing, modeling, and visualization. | Python, scikit-learn, pandas |
+| **IMDb-style Relational Database** | Designed an ER diagram and relational schema, built with SQL queries for KPIs (ratings, revenue, Oscars). | MySQL, Python |
+| Spotify ML Analysis | Machine learning analysis of Spotify audio features. | R |
 
 ## Tech Stack
 
-**Languages:** Python, R, SQL, C++  
-**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
-**Machine Learning & NLP:** Scikit-learn, TF-IDF, BM25, classification models, semantic search, sentence embeddings, bi-encoder retrieval, cross-encoder reranking  
-**Databases:** MySQL  
-**Tools:** GitHub, PyCharm, Jupyter Notebook, Google Colab  
----
-
-## Currently Learning
-
-- Git and GitHub workflow
-- Machine learning evaluation
-- NLP and information retrieval
-- Clean project documentation
-
----
+**Languages:** Python, R, SQL, C++
+**ML/NLP:** scikit-learn, TF-IDF, BM25, semantic search, bi-encoder retrieval, cross-encoder reranking, LoRA/QLoRA fine-tuning
+**Data:** pandas, NumPy, matplotlib, seaborn
+**Tools:** Git/GitHub, Jupyter, Google Colab, MySQL
 
 ## Languages
 
-- Persian: Native
-- English: Advanced
-- Italian: Academic / university environment
-
----
-
-## Contact
-
-- LinkedIn:[bahar-shafieian](https://www.linkedin.com/in/bahar-shafieian-0773022a3)
-- Email: bahar.shafieian2004@gmail.com
+Persian (native) · English (advanced) · Italian (academic/professional environment)
