@@ -11,7 +11,7 @@
 ## About Me
 
 - 🎓 Data Science and Economics student at the University of Cassino and Southern Lazio (UniCS)
-- 📈 Admitted to the **Data Science and Economics for Health (DSEH) master's degree at UniMi**, starting 2026
+- 📈 Admitted to the **Data Science master's degree at UniMi**, starting 2026
 - 🔬 Hands-on research experience in NLP, LLM fine-tuning, and ranking/retrieval systems
 - 🧵 Currently writing my thesis on response ranking for Persian social-commerce conversations
 - 🌍 Based in Italy — open to data science / ML / analytics opportunities in Milan
