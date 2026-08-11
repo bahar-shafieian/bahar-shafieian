@@ -1,6 +1,6 @@
 # Hi, I'm Bahar
 
-Data Science and Economics student (Università di Cassino) with hands-on research experience in NLP and machine learning, admitted to the **DSEH master's degree at the University of Milan (UniMi)**, starting 2026. My work focuses on applied ML, NLP, recommendation/ranking systems, and business analytics.
+Data Science and Economics student (Università di Cassino) with hands-on research experience in NLP and machine learning, admitted to the **Data Science master's degree at the University of Milan (UniMi)**, starting 2026. My work focuses on applied ML, NLP, recommendation/ranking systems, and business analytics.
 
 📍 Based in Italy — open to data science / ML / analytics opportunities in Milan
 🔗 LinkedIn · 📧 bahar.shafieian2004@gmail.com
