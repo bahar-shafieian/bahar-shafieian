@@ -1,4 +1,4 @@
- Master student in Data science for economics and Health @ University of Milan (UniMi), starting 2026
+ Master student in Data science for economics and Health @ University of Milan (UniMi)
 
 **Machine Learning · NLP · LLM Fine-Tuning · Ranking & Retrieval Systems · Business Analytics**
 
