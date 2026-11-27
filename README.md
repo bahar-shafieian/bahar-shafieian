@@ -1,6 +1,4 @@
-# Hi, I'm Bahar Shafieian 👋
-
-### Data Science & Economics @ University of Cassino → Data Science Master's @ University of Milan (UniMi), starting 2026
+ Master student in Data science for economics and Health @ University of Milan (UniMi), starting 2026
 
 **Machine Learning · NLP · LLM Fine-Tuning · Ranking & Retrieval Systems · Business Analytics**
 
