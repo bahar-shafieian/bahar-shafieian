@@ -6,17 +6,6 @@
 
 ---
 
-## About Me
-
-- 🎓 Data Science and Economics student at the University of Cassino and Southern Lazio (UniCS)
-- 📈 Admitted to the **Data Science and Economics for Health (DSEH) master's degree at UniMi**, starting 2026
-- 🔬 Hands-on research experience in NLP, LLM fine-tuning, and ranking/retrieval systems
-- 🧵 Currently writing my thesis on response ranking for Persian social-commerce conversations
-- 🌍 Based in Italy — open to data science / ML / analytics opportunities in Milan
-- 🗣️ Persian (native) · English (advanced) · Italian (B1, academic/professional environment)
-
----
-
 ## Featured Projects
 
 ### [Persian Response Ranking (Thesis)](https://github.com/bahar-shafieian/pershop-repo)
